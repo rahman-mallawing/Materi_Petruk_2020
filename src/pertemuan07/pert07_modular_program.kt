@@ -1,6 +1,6 @@
 /*
 /   Pertemuan 7 program modular:
-/   - Modul
+/   - Modular
 /   - Paket dan Namespace
 /   - Function/Procedure
 /   - Advanced Flow
@@ -8,7 +8,7 @@
 
 - Soal:
     Buatlah sebuah program untuk memeriksa apakah bilangan X
-    adalah bilangan ganjil, genap, bilangan positif atau bilangan negatif.
+    adapakah bilangan ganjil, genap, bilangan positif atau bilangan negatif.
     Bilangan X diinput pengguna. Contoh A = -3, maka A adalah bilangan negatif dan ganjil.
 
  */

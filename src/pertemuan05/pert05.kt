@@ -36,7 +36,7 @@ fun fungsiHitung(): Double{
 }
 
 // Deklarasi prosedur
-fun prosedurCetak(){
+fun prosedurCetak(): Unit{
     println("Halo ini di dalam prosedurCetak")
 }
 
